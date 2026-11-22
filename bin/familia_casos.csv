@@ -1,0 +1,8 @@
+id,name,last_name,gender,age,id_boss,is_dead,in_jail,was_boss,is_boss
+1,Pietro,Greco,H,75,0,0,0,1,0
+2,Nicola,Greco,H,55,1,0,0,0,0
+3,Franca,Greco,M,52,1,0,0,0,0
+4,Matteo,Greco,H,30,2,0,0,0,0
+5,Alba,Greco,M,28,2,1,0,0,0
+6,Remo,Greco,H,12,4,0,0,0,1
+7,Gina,Greco,M,10,4,1,0,0,0
