@@ -120,7 +120,7 @@ void imprimirNodo(Nodo* n, int nivel) {
 
 void mostrarArbol(Arbol& arbol) {
     if (arbol.raiz == NULL) {
-        cout << "El arbol esta vacio." << endl;
+        cout << "el arbol se encuentra vacio." << endl;
         return;
     }
     imprimirNodo(arbol.raiz, 0);
